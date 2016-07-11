@@ -1,156 +1,282 @@
+![](portugal.jpeg)
 
-# Building winning tech teams
-## that disrupt the status quo
-### _@ricardoparro_
-### _@tradeshift_
----
-
-# Product
-## _Useful_
-## _Quality_
-## _Sticky_
+# [fit] Building 
+# [fit] _winning tech teams_
+## [fit] that disrupt the status quo
 
 ---
 
-# Team
-### _Creative_
-### _Productive_
-### _Engaged_
-### _Happy_
+![](portugal.jpeg)
 
 ---
 
-# Never tell people how to do things
+![](portugal.jpeg)
+
+### [fit]_@ricardoparro_
+### [fit] #ricardopleasestoptalkingaboutfootballasyouaretheonlyportugueseintheroom
 
 ---
 
-# Objectives
-### _Clear_
-### _Measurable_
-### _Defined by the team_
-### _Iterate_
----
+![](daza-background.jpg)
 
-# Transparency
+# Daza Cominatcha 
+
+
+![inline fill](parede-daza.jpg)
 
 ---
 
-# Check progress
-## _OKRs_
+![](london.jpg)
 
---- 
+# [fit] London, Wonga.com and Jonty Hurwitz
 
-# Alignment enables Autonomy
-#### _What problem needs to be solved and Why_
-#### _Make sure we are heading the right direction_
-#### _Keep talking_
+![inline fill](Jonty_Hurwitz_The_Illusionist.jpg)
+
 
 ---
 
-# Transform Objectives into
-## _Plans_
-## _Actions_
+# São Paulo and Printi.com
+
+![](sp.jpg)
+
+![inline fill 80%](printi-team.jpg)
 
 ---
 
-# Ship it regurlaly
-## _Increase of motivation_
-## _Increase of productivity_
-## _Increase of quality_
+![](cph-bg.jpg)
+# The Hitchhiker Developer
+![inline fill 20%](alex.jpg)
 
 ---
 
-# Data, data, data
-## _Leave your ego at the door_
-## _Remove assumptions_
+![](ts-bg.jpg)
+#  Risk Team
+![inline fill 50%](risk-team.jpg)
 
 ---
 
-# Teams Structure
-## _Autonomous Squads 7+-2_
-## _Tribes_
-## _Chapters_
+![](ts-bg.jpg)
+# Business Analytics Team
+
+![inline fill](BA-team.jpg)
+
 
 ---
 
-# Loosely couple but tightly aligned squads
+![](bg-hipster.jpg)
+# Learnings
 
 ---
 
-# Culture
-## _Agile Engineering_
-## _It's Invisible like the air we breed_
-## _It's present all the time_
+![](itcrowd-bg.jpg)
+#  Product Development Process
+## _Epics_
+## _User Stories_
 
 ---
 
-# Scrum, Kanban
-## _Optional Ceremonies_
-## _Rules are a good start but we break them when needed_
-## _Retros are important_
+![](itcrowd-bg.jpg)
+# Product Development Process
+## _Functional Specs_
+## _Technical Specs_
+### [Joel on Software - Painless Functional Specifications](http://www.joelonsoftware.com/articles/fog0000000036.html)
 
 ---
 
-## Cross-pollination over standardisation
-### _Tools_
-### _Process_
-### _Depends on each squad_
-### _Consistency <> Flexbility_
+![](itcrowd-bg.jpg)
+# Product Development Process
+## _Good product managers clearly define product requirements -- in writing_
+### [Good Product Manager, Bad Product Manager by Ben Horowitz and David Weiden](http://www.khoslaventures.com/wp-content/uploads/Good_Product_Manager_Bad_Product_Manager_KV.pdf)
 
 ---
 
-# Architecture plays a big part on motivation
-## _Decoupled systems_
-## _PRs to maintain code quality_
-
----  
-
-# Focus on motivation
-## _Employee surveys_
+![](itcrowd-bg.jpg)
+## A Good Product Development Process Enables
+### _Motivation_
+### _Velocity_
+### _Quality_
 
 ---
 
-# The team decides when to release
+
+![](itcrowd-bg.jpg)
+## Data Driven Product Development 
+### _Short feedback loops_
+### _Iterative_ 
+### _Better, faster decisions_
 
 ---
 
-# Trust over control
-## _No politics_
-## _No fear_
-## _Agile at scale requires trust at scale_
+
+![](itcrowd-bg.jpg)
+# Data Driven Product Development 
+## _Assumptions_
+## _Ego_
 
 ---
 
-# Fail-friendly environment
-## _Fail fast_
-## _Learn fast_
-## _Improve fast_
+
+![](matrix-bg.jpg)
+## Development Process
+### _Scrum_
+### _Incremental_ 
+### _Small releases_
 
 ---
 
-# Hack Nights
+
+![](matrix-bg.jpg)
+## Development Process
+### _Non burocractic_
+### _Simple as possible_
+### _Silent_
 
 ---
 
-# Friday bar
+![](matrix-bg.jpg)
+# CI/CD
+## _Automation_
+## _Silent_
 
 ---
 
-# Healthy lunches
+![](matrix-bg.jpg)
+# Testing
+## _Automated_
+## _Usability and Manual_
+## _Environments_
 
 ---
 
-# We are hiring!
-## _tradeshift.com/jobs_
+![](sv-team.jpg)
+
+# Team Mission
 
 ---
 
+![](sv-team.jpg)
+
+# Talent and Diversity
+
+---
+
+![](guilfoyle-bg.jpg)
+
+# Consistency
+
+## _Marathon composed by sprints_
+
+
+---
+![](sv-el-bg.jpg)
+# Controlled Chaos
+## _Single point of contact_
+## _"Closed door policy"_
+## _Comunication_
+
+---
+
+![](risk-bg.jpg)
+# Embracing Change
+## _Confort Zone_
+## _Force Changes_
+
+---
+
+![](risk-bg.jpg)
+# Fail Friendly Environment
+## _Toggle feature_
+## _Celebrate failure_
+
+---
+
+![](ts-bg.jpg)
+#Fail Wall
+![inline fill 200%](fail-wall.jpg)
+
+
+---
+
+![](bg-retro.jpg)
+# Lean startup
+## _Retrospectives_
+
+---
+
+![](pizza-bg.jpg)
+
+#Two Pizza Team Rule
+
+---
+
+![](ts-bg.jpg)
+
+![inline fill 120%](bezos-quote.jpg)
+
+---
+
+![](bg-team.jpg)
+# Enter Tradeshift
+
+---
+
+![](bg-team.jpg)
+# Experiment - Chapters
+
+---
+
+![](ts-bg.jpg)
+# Teams Structure at Spotify
+
+![inline fill 140%](squads.png)
+
+---
+
+
+![](bg-team.jpg)
+# OKRs
+
+---
+
+
+![](bg-team.jpg)
+# What Tradeshift offers
+
+---
+
+![](bg-team.jpg)
+# Hard problems to solve
+
+---
+
+![](bg-team.jpg)
+# [fit] Being part of a company 
+# [fit] that is changing the world
+
+---
+
+![](bg-team.jpg)
+# [fit] Connect all companies in the
+# [fit] _World_
+
+---
+
+![20%](hack.jpg)
+# _We Hack_
+
+---
+![](hack.jpg)
+# _We are hiring!_ 
+
+---
+
+![](hack.jpg)
+#Questions?
+
+---
+
+![](hack.jpg)
 # Interesting Resources
 ## _Leaders eat last - Simon Sinek_
 ## _Extreme Ownership - Jocko willink_
 ## _Spotify Engineering culture videos_
-
----
-
-# Questions?
-
