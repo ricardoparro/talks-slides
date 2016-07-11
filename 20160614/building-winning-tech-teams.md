@@ -49,20 +49,6 @@
 
 ---
 
-![](ts-bg.jpg)
-#  Risk Team
-![inline fill 50%](risk-team.jpg)
-
----
-
-![](ts-bg.jpg)
-# Business Analytics Team
-
-![inline fill](BA-team.jpg)
-
-
----
-
 ![](bg-hipster.jpg)
 # Learnings
 
@@ -217,6 +203,20 @@
 
 ![](bg-team.jpg)
 # Enter Tradeshift
+
+---
+
+![](ts-bg.jpg)
+#  Risk Team
+![inline fill 50%](risk-team.jpg)
+
+---
+
+![](ts-bg.jpg)
+# Business Analytics Team
+
+![inline fill](BA-team.jpg)
+
 
 ---
 
