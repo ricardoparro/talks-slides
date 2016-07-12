@@ -142,7 +142,7 @@
 
 # Consistency
 
-## _Marathon composed by sprints_
+## _Marathon composed of sprints_
 
 
 ---
@@ -150,13 +150,13 @@
 # Controlled Chaos
 ## _Single point of contact_
 ## _"Closed door policy"_
-## _Comunication_
+## _Communication_
 
 ---
 
 ![](risk-bg.jpg)
 # Embracing Change
-## _Confort Zone_
+## _Comfort Zone_
 ## _Force Changes_
 
 ---
