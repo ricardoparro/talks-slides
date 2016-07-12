@@ -15,14 +15,6 @@
 ### [fit]_@ricardoparro_
 ### [fit] #ricardopleasestoptalkingaboutfootballasyouaretheonlyportugueseintheroom
 
----
-
-![](daza-background.jpg)
-
-# Daza Cominatcha 
-
-
-![inline fill](parede-daza.jpg)
 
 ---
 
@@ -77,19 +69,19 @@
 ---
 
 ![](itcrowd-bg.jpg)
-## A Good Product Development Process Enables
-### _Motivation_
-### _Velocity_
-### _Quality_
+#  Product Development Process Enables
+## _Motivation_
+## _Velocity_
+## _Quality_
 
 ---
 
 
 ![](itcrowd-bg.jpg)
-## Data Driven Product Development 
-### _Short feedback loops_
-### _Iterative_ 
-### _Better, faster decisions_
+# Data Driven Product Development 
+## _Short feedback loops_
+## _Iterative_ 
+## _Better, faster decisions_
 
 ---
 
@@ -103,19 +95,19 @@
 
 
 ![](matrix-bg.jpg)
-## Development Process
-### _Scrum_
-### _Incremental_ 
-### _Small releases_
+# Development Process
+## _Scrum_
+## _Incremental_ 
+## _Small releases_
 
 ---
 
 
 ![](matrix-bg.jpg)
-## Development Process
-### _Non burocractic_
-### _Simple as possible_
-### _Silent_
+# Development Process
+## _Non bureaucratic_
+## _Simple as possible_
+## _Silent_
 
 ---
 
@@ -229,12 +221,6 @@
 # Teams Structure at Spotify
 
 ![inline fill 140%](squads.png)
-
----
-
-
-![](bg-team.jpg)
-# OKRs
 
 ---
 
