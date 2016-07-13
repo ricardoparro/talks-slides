@@ -154,7 +154,7 @@
 ## _Small releases_
 
 ^ So following the product process comes the Development process. 
-^ I believe that scrum makes tech teams preform better. It's a very simple process that used in a good way can help teams getting success. Incremental development and small releases help a team to be more confident on what they release and also to be more quick to fix any problems that may appear.
+^ I believe that scrum makes tech teams preform better and creates transparency. It's a very simple process that used in a good way can help teams getting success. Incremental development and small releases help a team to be more confident on what they release and also to be more quick to fix any problems that may appear. A good rule of thumb for scrum process is that anyone in the company at any time can look at a scrum board and understand what the team is working on and can dive into the details of it.
 
 
 ---
@@ -203,7 +203,8 @@
 
 # Talent and Diversity
 
-^ Talent and diversity is very important. 
+^ Talent and diversity is very important. Specially diversity of personalities. Having 2 senior devs in a team that are amazing but have tough personalities can be a problem. Saw teams with 7 senior devs that were producing less than a team of 3 average devs. The same happens in football. Not always the team with the best players win. The best teams are the teams that have the right mixture of personalities. 
+
 
 ---
 
@@ -213,6 +214,7 @@
 
 ## _Marathon composed of sprints_
 
+^ It's not worst to push a team to the limit in one single sprint. In a longer term perspective this does not work and affects the outcome in ways that are not immediatelly perceived. Pushing a team to the limit create friction and frustration. It's like training a muscle. The teams that become better at doing estimation and measure of effort are the teams that will win over a period of time. This is a fact. 
 
 ---
 ![](sv-el-bg.jpg)
@@ -221,12 +223,17 @@
 ## _"Closed door policy"_
 ## _Communication_
 
+^ How to control chaos that is inerent specially in startups. Well I am a true believer on the single point of contact specially during crunch hours or focused hours. If is an open space this single point of contact should be considered the door for that team. Offcourse there is a balance because teams need to communicate between each other but is something that the single point of contact can do. Usually this should be done by the team leader. Dealing with PM requests, stakeholders questions, etc. This enables focus on the tasks at hand without being interrupted. This is one of the most important things in Tech Teams. If the developers are being interrupted all the time nothing will get done.
+^ The single point of contact should protect the team of distraction and also make sure that the team on important things that add real value to the company
+
 ---
 
 ![](risk-bg.jpg)
 # Embracing Change
-## _Comfort Zone_
+## _Outside of Comfort Zone_
 ## _Force Changes_
+
+^ Naturally in a fast growing startup changes happen naturally but as a team lead in confortable moments I try to make changes so the team trains the adaptability to different scenarios. This is important because developers get bored easily so if things are too predictable and they are working on something that they do not find challenging sometimes change is needed. That can be in the form of introducing something different in the dev process or simply involving the developers more in the product development process. Sometimes even changing places. 
 
 ---
 
