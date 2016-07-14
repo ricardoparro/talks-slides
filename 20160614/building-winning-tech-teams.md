@@ -239,12 +239,6 @@ The PM, PO and designer should work closely with the team.
 
 ---
 
-
-![](bg-team.jpg)
-# What Tradeshift offers
-
----
-
 ![](bg-team.jpg)
 # Hard problems to solve
 
